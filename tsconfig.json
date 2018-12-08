@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "noEmit": true,
+    "pretty": true,
+    "outDir": "./built",
+    "allowJs": true,
+    "jsx": "preserve",
+    "target": "ESNext",
+    "module": "esNext",
+    "lib": ["es2016", "dom", "es2017.object"],
+    "experimentalDecorators": true,
+    "noUnusedParameters": true,
+    "noUnusedLocals": true,
+    "sourceMap": true,
+    "strict": true,
+    "baseUrl": "."
+  }
+}
